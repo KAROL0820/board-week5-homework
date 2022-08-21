@@ -1,3 +1,8 @@
 $(function() {
-  console.log('Hello Bootstrap5');
+  $('.arrow').click(function (e) {
+    e.preventDefault();
+    $('.down').toggleClass('d-none');
+    $('.up').toggleClass('d-none');
+    
+  })
 });

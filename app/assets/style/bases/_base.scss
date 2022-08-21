@@ -1,0 +1,26 @@
+.icon{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+ol,ul{
+    margin: 0;
+    padding: 0;
+  list-style: none;
+}
+.object-fit-cover{
+    object-fit: cover;
+}
+.circle-pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+//文字設定
+.fz-14{
+    font-size: 14px;
+}
+.fz-12{
+    font-size: 12px;
+}
